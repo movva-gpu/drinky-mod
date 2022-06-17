@@ -1,5 +1,9 @@
-{ 
-	"item.drinkymod.ice_tea": "Iced tea",
-	"itemGroup.drinkymod.cold_drinks": "Cold drinks",
-	"item.drinkymod.star_trophy": "Star Trophy"
+{
+  "block.drinkymod.tea_plant": "Tea",
+
+  "item.drinkymod.iced_tea_bottle": "Iced tea bottle",
+  "item.drinkymod.star_trophy": "Star Trophy",
+  "item.drinkymod.tea_leaf": "Tea leaf",
+
+  "itemGroup.drinkymod.cold_drinks": "Cold drinks"
 }

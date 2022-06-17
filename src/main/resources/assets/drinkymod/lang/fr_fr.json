@@ -1,5 +1,9 @@
-{ 
-	"item.drinkymod.ice_tea": "Th\u00e9 glac\u00e9",
-	"itemGroup.drinkymod.cold_drinks": "Boissons froides",
-	"item.drinkymod.star_trophy": "Troph\u00e9e \u00e9toile"
+{
+  "block.drinkymod.tea_plant": "Th\u00e9",
+
+  "item.drinkymod.iced_tea_bottle": "Fiole de th\u00e9 glac\u00e9",
+  "item.drinkymod.star_trophy": "Troph\u00e9e \u00e9toile",
+  "item.drinkymod.tea_leaf": "Feuille de th\u00e9",
+  
+  "itemGroup.drinkymod.cold_drinks": "Boissons froides"
 }
