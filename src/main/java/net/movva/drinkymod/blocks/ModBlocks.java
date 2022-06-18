@@ -15,7 +15,7 @@ public class ModBlocks {
 
     public static final Block TEA_PLANT = registerBlock("tea_plant",
             new PlantBlock(FabricBlockSettings.copy(Blocks.GRASS)
-                    .nonOpaque().noCollision().breakInstantly().sounds(BlockSoundGroup.GRASS)), ItemGroup.MISC);
+                    .nonOpaque().noCollision().breakInstantly().sounds(BlockSoundGroup.GRASS).offsetType(AbstractBlock.OffsetType.XZ)), ItemGroup.MISC);
 
     private static Block registerBlock(String name, Block block, ItemGroup itemgroup) {
         registerBlockItem(name, block, itemgroup);
