@@ -1,9 +1,11 @@
 {
   "block.drinkymod.tea_plant": "Th\u00e9",
 
-    "item.drinkymod.iced_tea_bottle": "BlockTon\u2122 Iced Tea\u00ae",
+  "item.drinkymod.cola_drink_bottle": "Colala\u00ae",
+  "item.drinkymod.iced_tea_bottle": "BlockTon\u2122 Iced Tea\u00ae",
+
   "item.drinkymod.star_trophy": "Troph\u00e9e \u00e9toile",
   "item.drinkymod.tea_leaf": "Feuille de th\u00e9",
-  
+
   "itemGroup.drinkymod.cold_drinks": "Boissons froides"
 }
